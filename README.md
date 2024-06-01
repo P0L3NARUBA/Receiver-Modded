@@ -1,5 +1,8 @@
 Receiver Modded
 ===============
+
+**A mod that adds QOL Features!**
+
      By the way i have legal copy of Receiver.
      I'll recommend you to support the developers and buy the original game through Steam.
      Link for the game: https://store.steampowered.com/app/234190/Receiver/
