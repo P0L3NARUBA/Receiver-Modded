@@ -19,7 +19,8 @@ TO-DO's
 =======
 
 ### Gameplay
-- [ ] Fix Running System
+- [x] Fix Running System
+   - Now you can press "Shift" key to sprint!
 
 ### Weapons
 - [ ] Add Custom Weapon (Probably Glock 17 Remake)
