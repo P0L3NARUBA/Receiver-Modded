@@ -146,7 +146,7 @@ public class optionsmenuscript : MonoBehaviour {
     }
 
     public void UpdateUIValuesAndApplyDefaults() {
-        UpdateUIValuesAndApplyDefaults(optionsContent.transform);
+//        UpdateUIValuesAndApplyDefaults(optionsContent.transform);
         UpdateUIValuesAndApplyDefaults(modifiersContent.transform);
     }
 
