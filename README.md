@@ -18,7 +18,7 @@ Opening the Project
 2. Open "UnityProject" Folder in Unity
 
 *For good gameplay, go to any Scene and Click to "Main Camera" in "Hierarchy" and Change the Clipping Planes > Near* **0.1 to 0.01**<br>
-Press CTRL-S and Done!
+*Press CTRL-S and Done!*
 
 
 TO-DO's
@@ -26,12 +26,12 @@ TO-DO's
 
 ### General
 
-- [x] Fixed some errors that appears.
+- [x] Fixed some errors that appears
 
 ### Gameplay
 - [x] Fix Running System
    - Now you can press "Shift" key to sprint!
-   - Spam Pressing "W" key still sprints.
+   - Spam Pressing "W" key still sprints
 
 ### UI / Menus
-- [x] Remove Advertisement.
+- [x] Remove Advertisement
