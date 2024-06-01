@@ -23,6 +23,9 @@ TO-DO's
    - Now you can press "Shift" key to sprint!
    - Spam Pressing "W" key still sprints.
 
+### UI / MENUS
+- [x] Remove Advertisement
+
 ### Weapons
 - [ ] Add Custom Weapon (Probably Glock 17 Remake)
    - [ ] Add Laser Sight
