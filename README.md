@@ -18,14 +18,14 @@ Opening the Project
 TO-DO's
 =======
 
+### General
+
+- [x] Fixed some errors that appears.
+
 ### Gameplay
 - [x] Fix Running System
    - Now you can press "Shift" key to sprint!
    - Spam Pressing "W" key still sprints.
 
-### UI / MENUS
-- [x] Remove Advertisement
-
-### Weapons
-- [ ] Add Custom Weapon (Probably Glock 17 Remake)
-   - [ ] Add Laser Sight
+### UI / Menus
+- [x] Remove Advertisement.
