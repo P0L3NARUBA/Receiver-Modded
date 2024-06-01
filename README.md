@@ -15,7 +15,10 @@ Tutorial
 
 Opening the Project
 1. Launch Unity
-2. Open "UnityProject" in Unity and here we go!
+2. Open "UnityProject" Folder in Unity
+
+*For good gameplay, go to any Scene and Click to "Main Camera" in "Hierarchy" and Change the Clipping Planes > Near* **0.1 to 0.01**<br>
+Press CTRL-S and Done!
 
 
 TO-DO's
