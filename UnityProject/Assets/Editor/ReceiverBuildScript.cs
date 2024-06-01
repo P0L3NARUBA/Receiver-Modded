@@ -151,7 +151,8 @@ public class ReceiverBuildScript {
 
         if(configuration.build_target == BuildTarget.StandaloneOSX) {
             //Force intel X64 so it can find the right libraries when running on an M1
-            UnityEditor.OSXStandalone.UserBuildSettings.architecture = UnityEditor.OSXStandalone.MacOSArchitecture.x64;
+            // Uncomment the the // at the line 155 to enable it.
+            // UnityEditor.OSXStandalone.UserBuildSettings.architecture = UnityEditor.OSXStandalone.MacOSArchitecture.x64;
         }
 
         PlayerSettings.SplashScreen.showUnityLogo = false;
