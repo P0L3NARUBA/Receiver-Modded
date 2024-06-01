@@ -13,3 +13,14 @@ Tutorial
 Opening the Project
 1. Launch Unity
 2. Open "UnityProject" in Unity and here we go!
+
+
+TO-DO's
+=======
+
+### Gameplay
+- [ ] Fix Running System
+
+### Weapons
+- [ ] Add Custom Weapon (Probably Glock 17 Remake)
+   - [ ] Add Laser Sight
