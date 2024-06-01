@@ -102,12 +102,14 @@ public class SteamManager : MonoBehaviour {
 		// [*] Your App ID is not completely set up, i.e. in Release State: Unavailable, or it's missing default packages.
 		// Valve's documentation for this is located here:
 		// https://partner.steamgames.com/doc/sdk/api#initialization_and_shutdown
-		m_bInitialized = SteamAPI.Init();
-		if (!m_bInitialized) {
-			Debug.LogError("[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.", this);
 
-			return;
-		}
+		/* Do not uncomment these unless you know what you doing. */
+		//m_bInitialized = SteamAPI.Init();
+		//if (!m_bInitialized) {
+		//	Debug.LogError("[Steamworks.NET] SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.", this);
+        //
+		//	return;
+		//}
 
 		s_EverInitialized = true;
 	}
