@@ -21,6 +21,7 @@ TO-DO's
 ### Gameplay
 - [x] Fix Running System
    - Now you can press "Shift" key to sprint!
+   - Spam Pressing "W" key still sprints.
 
 ### Weapons
 - [ ] Add Custom Weapon (Probably Glock 17 Remake)
