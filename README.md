@@ -27,6 +27,7 @@ TO-DO's
 ### General
 
 - [x] Fixed some errors that appears
+- [x] Upgrade Unity Version 
 
 ### Gameplay
 - [x] Fix Running System
