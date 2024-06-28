@@ -21,7 +21,7 @@ Opening the Project
 *Press CTRL-S and Done!*
 
 
-TO-DO's
+TO-DO
 =======
 
 ### General
